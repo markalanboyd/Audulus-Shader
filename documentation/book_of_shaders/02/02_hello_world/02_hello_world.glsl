@@ -1,5 +1,5 @@
 // https://thebookofshaders.com/02/
-// translated by Mark Boyd
+// translated for Audulus by Mark Boyd
 
 #version 450
 layout(location = 0) out vec4 outColor;

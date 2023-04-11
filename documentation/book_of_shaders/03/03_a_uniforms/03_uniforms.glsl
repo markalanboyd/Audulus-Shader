@@ -1,5 +1,5 @@
 // https://thebookofshaders.com/03/
-// translated by Mark Boyd
+// translated for Audulus by Mark Boyd
 // NB: You must attach a Timer node to the u_time input.
 
 #version 450
