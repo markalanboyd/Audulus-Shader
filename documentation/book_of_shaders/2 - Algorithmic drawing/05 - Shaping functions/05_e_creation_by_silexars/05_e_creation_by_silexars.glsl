@@ -1,6 +1,9 @@
 // https://thebookofshaders.com/05/
 // translated for Audulus by Mark Boyd
 
+// http://www.pouet.net/prod.php?which=57245
+// If you intend to reuse this shader, please add credits to 'Danilo Guanabara'
+
 #version 450
 layout(location = 0) out vec4 outColor;
 layout(binding = 0) uniform Inputs {
